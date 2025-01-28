@@ -1,0 +1,34 @@
+Gavin Morrison
+
+San Francisco, CA
+Phone: (415) 323-9318
+Email: cmorrisongavin@gmail.com
+About Me
+
+I am an experienced audio engineer and sound designer transitioning into data analysis to combine my technical expertise with my passion for uncovering insights through data. Over the years, I’ve developed strong analytical and programming skills using Python, MATLAB, and Plot, and I’ve applied these to real-world problems in audio processing and restoration.
+
+Additionally, I have a growing interest in CAD modeling and have been developing my skills using Fusion 360. This complements my technical background and enhances my ability to design, visualize, and prototype innovative solutions across fields.
+Skills
+
+    Programming Languages: Python, MATLAB
+    Data Analysis Tools: Pandas, NumPy, Plot
+    CAD Modeling: Experience with Fusion 360 for design and prototyping
+    Audio Analysis Expertise: Applying data-driven techniques to audio engineering challenges
+    Visualization: Creating insightful visualizations to convey complex data patterns
+    Technical Proficiency: Advanced experience with Audacity, iZotope, and Pi Audio
+
+Why I’m Interested in Data Analysis
+
+Through my work in audio engineering, I’ve developed a fascination for how data informs decision-making. Analyzing trends in soundscapes, measuring acoustic properties, and understanding psychoacoustic perception sparked my curiosity about the broader applications of data analysis. This led me to pursue technical skills in data manipulation and visualization, which I now seek to apply in a dedicated data analysis role.
+
+My interest in CAD modeling and Fusion 360 adds another dimension to my skills, enabling me to combine data analysis with design and prototyping to solve complex problems creatively.
+
+I am particularly interested in roles that involve exploring complex datasets, generating actionable insights, and contributing to innovative solutions across industries.
+Contact
+
+If you’re looking for a driven, detail-oriented data analyst with a unique perspective, please feel free to reach out to me:
+
+    Phone: (415) 323-9318
+    Email: cmorrisongavin@gmail.com
+
+I’m excited to bring my technical skills, creativity, and analytical mindset to a dynamic team and help solve impactful challenges.
