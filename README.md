@@ -1,55 +1,49 @@
-# 🐺 QA Wolf Take Home Assignment
+Gavin Morrison
 
-Welcome to the QA Wolf take home assignment for our [QA Engineer](https://www.task-wolf.com/apply-qae) role! We appreciate your interest and look forward to seeing what you come up with.
+San Francisco, CA | cmorrisongavin@gmail.com | GitHub: https://github.com/idiosyncapricorn
 
-## Instructions
+Professional Summary
 
-This assignment has two questions as outlined below. When you are done, upload your assignment to our [application page](https://www.task-wolf.com/apply-qae):
+Innovative and detail-oriented Audio Engineer and Python Developer with over 10 years of experience producing, restoring, and designing audio systems. Expertise in Python scripting, automated testing frameworks, and sound design for modern platforms. Adept at developing tools, software extensions, and high-performance applications, with a proven ability to solve technical challenges in both audio and software domains.
+Technical Skills
 
+    Programming: Python (Advanced), JavaScript, Cython, SQL
+    Frameworks: Playwright, Flask, Electron
+    Tools: Fusion 360, MATLAB, iZotope RX, Logic Pro X
+    Other Skills: Audio restoration, software testing, CAD modeling
 
-### Question 1
+Professional Experience
 
-In this assignment, you will create a script on [Hacker News](https://news.ycombinator.com/) using JavaScript and Microsoft's [Playwright](https://playwright.dev/) framework. 
+Freelance QA Engineer
+QA Wolf Take-Home Assignment | January 2025
 
-1. Install node modules by running `npm i`.
+    Developed a JavaScript automation script using Microsoft Playwright to validate article sorting on Hacker News.
+    Designed and executed automated browser tests to ensure the first 100 articles were sorted from newest to oldest.
+    Demonstrated technical expertise through a recorded walkthrough showcasing successful execution and problem-solving.
 
-2. Edit the `index.js` file in this project to go to [Hacker News/newest](https://news.ycombinator.com/newest) and validate that EXACTLY the first 100 articles are sorted from newest to oldest. You can run your script with the `node index.js` command.
+Python Developer
+Freelance Projects | 2023–Present
 
-Note that you are welcome to update Playwright or install other packages as you see fit, however you must utilize Playwright in this assignment.
+    Built Python-based Firefox extensions for password management and wildfire AQI monitoring.
+    Developed scalable Cython modules for effects processors inspired by vintage audio rigs.
+    Created a Python script to catalog and organize a chord library for digital audio production, enabling seamless integration with Logic Pro.
+    Designed a real-time engine simulator in Python for testing mechanical components with live data integration.
 
-### Question 2
+Audio Engineer and Sound Designer
+Independent Contractor | 2013–Present
 
-Why do you want to work at QA Wolf? Please record a short, ~2 min video that includes:
+    Produced, restored, and mastered audio projects, including archival work like a Samuel Beckett collection and modern music albums.
+    Created boutique plugins for Logic Pro, utilizing custom scripting for unique audio effects.
+    Established an audio restoration business focused on influential archival projects and vinyl record production.
 
-1. Your answer 
+Education & Certifications
 
-2. A walk-through demonstration of your code, showing a successful execution
+    Junior at City College of San Francisco (CCSF) – Focus: Audio Engineering & Computer Science
+    Member of the Audio Engineering Society (AES)
+    Member of Blacks in Technology (BIT)
 
-The answer and walkthrough should be combined into *one* video.
+Projects
 
-## Frequently Asked Questions
-
-### What is your hiring process? When will I hear about next steps?
-
-This take home assignment is the first step in our hiring process, followed by a final round interview if it goes well. **We review every take home assignment submission and promise to get back to you either way within one week (usually sooner).** The only caveat is if we are out of the office, in which case we will get back to you when we return. If it has been more than one week and you have not heard from us, please do follow up.
-
-The final round interview is a 2-hour technical work session that reflects what it is like to work here. We provide a $150 stipend for your time for the final round interview regardless of how it goes. After that, there may be a short chat with our director about your experience and the role.
-
-Our hiring process is rolling where we review candidates until we have filled our openings. If there are no openings left, we will keep your contact information on file and reach out when we are hiring again.
-
-### Having trouble uploading your assignment?
-Be sure to delete you `node_modules`, then zip your assignment folder prior to upload. 
-
-### How do you decide who to hire?
-
-We evaluate candidates based on three criteria:
-
-- Technical ability (as demonstrated in the take home and final round)
-- Customer service orientation (as this role is customer facing)
-- Alignment with our values (captured [here](https://www.notion.so/qawolf/QA-Wolf-QA-Engineer-Remote-156203a1e476459ea5e6ffca972d0efe))
-
-This means whether we hire you is based on how you do during our interview process, not on your previous experience (or lack thereof). Note that you will also need to pass a background check to work here as our customers require this.
-
-### How can I help my application stand out?
-
-We've found that our best hires have been the most enthusiastic throughout our process. If you are very excited about working here, please feel free to go above and beyond on this assignment.
+    Microphone for Wildfire Recording: Designed a durable, buttonless shotgun microphone optimized for harsh wildfire environments, featuring custom components for reliability.
+    Cython Effects Processor: Developed lightweight audio plugins using Cython, inspired by 70s and 90s rack units.
+    QA Automation for Hacker News: Implemented automated testing workflows with Playwright to validate website functionality, highlighting technical testing capabilities.
